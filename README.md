@@ -20,8 +20,8 @@ I work effectively with AI tools throughout the development workflow: planning f
 
 ## 📂 Featured Projects
 
-- 🛒 [**ProStore**](https://github.com/hamzask122112-arch/prostore): E-commerce store built with Next.js, Prisma, and PostgreSQL
-- 🏨 [**The Wild Oasis**](https://github.com/hamzask122112-arch/The-wild-oasis): Hotel website built with Next.js
+- 🛒 [**ProStore**](https://github.com/hamzaskaf-dev/prostore): E-commerce store built with Next.js, Prisma, and PostgreSQL
+- 🏨 [**The Wild Oasis**](https://github.com/hamzaskaf-dev/The-wild-oasis): Hotel website built with Next.js
 
 ## 🌱 Currently
 
@@ -30,8 +30,8 @@ I work effectively with AI tools throughout the development workflow: planning f
 
 ## 📫 Get in Touch
 
-- LinkedIn: ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hamza-skaf-890607389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- LinkedIn: (https://linkedin.com/in/your-profile)
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzask122112-arch&show_icons=true&theme=default)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaskaf-dev&show_icons=true&theme=default)
